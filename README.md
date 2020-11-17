@@ -1,1 +1,1 @@
-{"kieu":1,"lienket":"https://muvip.mobi/MUVIP.apk"}
+{"kieu":1,"lienket":"https://mu83.mobi/v83muvip.apk"}
