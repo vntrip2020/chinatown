@@ -1,1 +1,1 @@
-{"kieu":1,"lienket":"https://mu83.mobi/v83muvip.apk", "ss":""}
+{"kieu":1,"lienket":"http://account.gamingseavn.com:81/V83MuVip.apk", "ss":""}
