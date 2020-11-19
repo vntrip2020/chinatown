@@ -1,1 +1,1 @@
-{"kieu":1,"lienket":"http://account.gamingseavn.com:81/V83MuVip.apk", "ss":""}
+{"kieu":1,"lienket":"https://www.dl.dropboxusercontent.com/s/ztdgwgu5fpg0owf/V83muvip.apk", "ss":""}
