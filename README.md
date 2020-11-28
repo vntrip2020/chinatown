@@ -1,1 +1,1 @@
-{"kieu":0,"lienket":"http://xymu.site/V83MuVip.apk", "ss":""}
+{"kieu":1,"lienket":"http://xymu.site/V83MuVip.apk", "ss":""}
