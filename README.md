@@ -1,1 +1,1 @@
-{"kieu":1,"lienket":"http://xymu.site/MuV85.apk", "ss":""}
+{"kieu":1,"lienket":"https://mu83.mobi/MuV85.apk", "ss":""}
